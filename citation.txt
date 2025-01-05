@@ -1,0 +1,7 @@
+@inproceedings{REPO014,
+    author = "Xie, Yueqi and Fang, Minghong and Pi, Renjie and Gong, Neil",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    pages = "507--518",
+    title = "{GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis}",
+    year = "2024"
+}
